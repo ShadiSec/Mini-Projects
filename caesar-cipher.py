@@ -22,7 +22,7 @@ a8"     "" 88 88P'    "8a 88P'    "8a a8P_____88 88P'   "Y8
               88           
 """)
 
-# Function that takes 3 arguments and ciphers the text.
+# Function that takes 3 parameters and ciphers the text.
 def caesar(original_text, shift_amount, encode_decode):
     output_cipher = ""
     cipher_option = ""
