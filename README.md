@@ -10,4 +10,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🧮 Calculator](https://github.com/ShadiSec/Calculator/blob/main/Calculator.py)  
   A simple calculator program that takes user input and prints the calculated results.
 
+> [🃏 Blackjack](https://github.com/ShadiSec/BlackJack/blob/main/BlackJack.py)   
+  A Blackjack game where you compete with the AI.
+
 > 🚧 More Coming Soon...
