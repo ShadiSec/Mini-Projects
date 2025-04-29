@@ -13,4 +13,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🃏 Blackjack](https://github.com/ShadiSec/BlackJack/blob/main/BlackJack.py)   
   A Blackjack game where you compete with the AI.
 
+> [🎯 Guess The Number](https://github.com/ShadiSec/GuessTheNumber/blob/main/GuessTheNumber.py)   
+  A game where the player has to guess the number correctly. Includes difficulty levels.
+
 > 🚧 More Coming Soon...
