@@ -16,4 +16,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🎯 Guess The Number](https://github.com/ShadiSec/GuessTheNumber/blob/main/GuessTheNumber.py)   
   A game where the player has to guess the number correctly. Includes difficulty levels.
 
+> [📊 Higher Lower Game](https://github.com/ShadiSec/HigherLowerGame/blob/main/HigherLower.py)   
+  A guessing game where you compare social media accounts and guess who has more followers to keep your streak alive.
+
 > 🚧 More Coming Soon...
