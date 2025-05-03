@@ -19,4 +19,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [📊 Higher Lower Game](https://github.com/ShadiSec/HigherLowerGame/blob/main/HigherLower.py)   
   A guessing game where you compare social media accounts and guess who has more followers to keep your streak alive.
 
+> [☕ Coffee Machine](https://github.com/ShadiSec/CoffeeMachine/blob/main/main.py)   
+  A coffee machine program that processes drink orders, checks resource availability, handles payments, and updates inventory accordingly.
+
 > 🚧 More Coming Soon...
