@@ -22,7 +22,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [☕ Coffee Machine](https://github.com/ShadiSec/CoffeeMachine/blob/main/main.py)   
   A coffee machine program that processes drink orders, checks resource availability, handles payments, and updates inventory accordingly.
 
-> [☕ Trivia](https://github.com/ShadiSec/Trivia/blob/main/main.py)   
+> [🧠 Trivia](https://github.com/ShadiSec/Trivia/blob/main/main.py)   
   A trivia game that uses OOP and the Open Trivia Database for questions.
 
 > 🚧 More Coming Soon...
