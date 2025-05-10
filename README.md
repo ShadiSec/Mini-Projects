@@ -25,4 +25,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🧠 Trivia - (Python)](https://github.com/ShadiSec/Trivia/blob/main/main.py)   
   A trivia game that uses OOP and the Open Trivia Database for questions.
 
+> [🟠 Hirst Painting - (Python)](https://github.com/ShadiSec/Hirst-Painting/blob/main/main.py)   
+  A trivia game that uses OOP and the Open Trivia Database for questions.
+
 > 🚧 More Coming Soon...
