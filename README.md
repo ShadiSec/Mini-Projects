@@ -26,6 +26,6 @@ A growing collection of small projects I’ve built to strengthen my coding skil
   A trivia game that uses OOP and the Open Trivia Database for questions.
 
 > [🟠 Hirst Painting - (Python)](https://github.com/ShadiSec/Hirst-Painting/blob/main/main.py)   
-  A trivia game that uses OOP and the Open Trivia Database for questions.
+  A program that recreates a Damien Hirst-style dot painting using Turtle graphics and random colors extracted from an image with colorgram.
 
 > 🚧 More Coming Soon...
