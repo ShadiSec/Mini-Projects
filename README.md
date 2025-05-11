@@ -28,4 +28,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🟠 Hirst Painting - (Python)](https://github.com/ShadiSec/Hirst-Painting/blob/main/main.py)   
   A program that recreates a Damien Hirst-style dot painting using Turtle graphics and random colors extracted from an image with colorgram.
 
+> [🐢 Turtle Race - (Python)](https://github.com/ShadiSec/TurtleRace/blob/main/main.py)   
+  A colorful turtle racing game built with Python's Turtle module, where users bet on the winning turtle.
+
 > 🚧 More Coming Soon...
