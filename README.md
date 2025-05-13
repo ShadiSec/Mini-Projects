@@ -31,4 +31,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🐢 Turtle Race - (Python)](https://github.com/ShadiSec/TurtleRace/blob/main/main.py)   
   A colorful turtle racing game built with Python's Turtle module, where users bet on the winning turtle.
 
+> [🐍 Snake - (Python)](https://github.com/ShadiSec/SnakeGame/blob/main/main.py)   
+  A classic snake game where the player controls a growing snake to eat randomly placed food while avoiding collisions.
+
 > 🚧 More Coming Soon...
