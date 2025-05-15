@@ -34,4 +34,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🐍 Snake - (Python)](https://github.com/ShadiSec/SnakeGame/blob/main/main.py)   
   A classic snake game where the player controls a growing snake to eat randomly placed food while avoiding collisions.
 
+> [🏓 Ping Pong - (Python)](https://github.com/ShadiSec/PongGame/blob/main/main.py)   
+  A classic two-player ping pong game built with Python Turtle, where paddles deflect a bouncing ball to score points.
+
 > 🚧 More Coming Soon...
