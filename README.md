@@ -37,4 +37,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🏓 Ping Pong - (Python)](https://github.com/ShadiSec/PongGame/blob/main/main.py)   
   A classic two-player ping pong game built with Python Turtle, where paddles deflect a bouncing ball to score points.
 
+> [🚗 Turtle Crossing - (Python)](https://github.com/ShadiSec/TurtleCrossing/blob/main/main.py)   
+  A turtle dodges cars to cross the road and score points.
+
 > 🚧 More Coming Soon...
