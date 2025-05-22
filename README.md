@@ -40,4 +40,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🚗 Turtle Crossing - (Python)](https://github.com/ShadiSec/TurtleCrossing/blob/main/main.py)   
   A turtle dodges cars to cross the road and score points.
 
+> [🗺️ US States Guessing - (Python)](https://github.com/ShadiSec/US-State-Game/blob/main/main.py)   
+  A U.S. geography quiz game where players guess state names and see them labeled on a blank map.
+
 > 🚧 More Coming Soon...
