@@ -43,4 +43,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🗺️ US States Guessing - (Python)](https://github.com/ShadiSec/US-State-Game/blob/main/main.py)   
   A U.S. geography quiz game where players guess state names and see them labeled on a blank map.
 
+> [📏 Miles to Km Converter - (Python)](https://github.com/ShadiSec/Miles-2-Km/blob/main/main.py)   
+  A program with a simple GUI created with Tkinter to convert miles to kilometers.
+
 > 🚧 More Coming Soon...
