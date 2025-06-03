@@ -49,4 +49,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [🍅 Poromodo Timer - (Python)](https://github.com/ShadiSec/Poromodo-Timer/blob/main/main.py)   
   This Python program creates a Pomodoro timer using Tkinter that alternates between work and break sessions, tracks progress with checkmarks, and includes start/reset functionality.
 
+> [🔐 Password Manager - (Python)](https://github.com/ShadiSec/Password-Manager/blob/main/main.py)   
+  A graphical password manager that allows users to store, view, and copy saved credentials from a local file.
+
 > 🚧 More Coming Soon...
