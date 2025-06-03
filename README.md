@@ -46,4 +46,7 @@ A growing collection of small projects I’ve built to strengthen my coding skil
 > [📏 Miles to Km Converter - (Python)](https://github.com/ShadiSec/Miles-2-Km/blob/main/main.py)   
   A program with a simple GUI created with Tkinter to convert miles to kilometers.
 
+> [🍅 Poromodo Timer - (Python)](https://github.com/ShadiSec/Poromodo-Timer/blob/main/main.py)   
+  This Python program creates a Pomodoro timer using Tkinter that alternates between work and break sessions, tracks progress with checkmarks, and includes start/reset functionality.
+
 > 🚧 More Coming Soon...
